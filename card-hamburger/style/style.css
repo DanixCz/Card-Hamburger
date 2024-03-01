@@ -31,14 +31,14 @@ body{
     height: 46px;
     text-align: center;
     font-size: 16px;
-    color: rgb(24, 204, 144);
+    color: rgb(2, 144, 148);
     font-weight: bold;
 }
 .card-food-plus{
     position: absolute;
     border-radius: 50%;
     padding: 8px;
-    background-color: red;
+    background-color: rgb(254, 76, 76);
     top: 184px;
     display: flex;
     justify-content: center;
